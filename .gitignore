@@ -1,0 +1,6 @@
+
+composer.lock
+vendor
+test/testSuite
+.DS_Store
+.vscode/launch.json
